@@ -1,4 +1,8 @@
-function testinsheetfk101() {
+
+//I need to add headers, need to add function variables so you can give it that I'll use later and past starting point and the range and stuff to it if necessary, and the product ID,
+//Need to also figure out how to use Express and stuff to create a web page 2 input those variables and pass them along same goes with everything else and find out
+//Also need to figure out how to integrate a database into this thing or at least output everything to a file. A unique file.
+functionfunctionfunction testinsheetfk101() {
  //var ss = SpreadsheetApp.create("test1");
   var ss = SpreadsheetApp.getActiveSpreadsheet();
  var sheets = ss.getSheets();
