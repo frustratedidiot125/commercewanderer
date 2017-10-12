@@ -3,7 +3,7 @@
 //Need to also figure out how to use Express and stuff to create a web page 2 input those variables and pass them along same goes with everything else and find out
 //Also need to figure out how to integrate a database into this thing or at least output everything to a file. A unique file. Downloadable file.
 //Or at least just integrate into Google drive or something or Google Sheets
-functionfunctionfunction testinsheetfk101() {
+function testinsheetfk101() {
  //var ss = SpreadsheetApp.create("test1");
   var ss = SpreadsheetApp.getActiveSpreadsheet();
  var sheets = ss.getSheets();
