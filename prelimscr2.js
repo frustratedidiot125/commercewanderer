@@ -3,18 +3,20 @@
 //Need to also figure out how to use Express and stuff to create a web page 2 input those variables and pass them along same goes with everything else and find out
 //Also need to figure out how to integrate a database into this thing or at least output everything to a file. A unique file. Downloadable file.
 //Or at least just integrate into Google drive or something or Google Sheets
-function testinsheetfk101() {
+var query = 29016526 ;
+
+functionfunctionfunction testinsheetfk101() {
  //var ss = SpreadsheetApp.create("test1");
-  var ss = SpreadsheetApp.getActiveSpreadsheet();
- var sheets = ss.getSheets();
- var sheet = ss.getSheetByName("Sheet1"); //or whatever you name your sheet
+  //var ss = SpreadsheetApp.getActiveSpreadsheet();
+// var sheets = ss.getSheets();
+ //var sheet = ss.getSheetByName("Sheet1"); //or whatever you name your sheet
   //var query = 29016524
   //var query = 36156004
   //var store = 1
  
-  var query = 29016526 ;
   
-  for ( var store = 5892; store < 9400; store++){
+  
+  for ( var store = 1; store < 9500; store++){
    // test
   //var store = 3420 //test
   
