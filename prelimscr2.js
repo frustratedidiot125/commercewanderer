@@ -5,7 +5,7 @@
 //Or at least just integrate into Google drive or something or Google Sheets
 var query = 29016526 ;
 
-functionfunctionfunction testinsheetfk101() {
+function lookup() {
  //var ss = SpreadsheetApp.create("test1");
   //var ss = SpreadsheetApp.getActiveSpreadsheet();
 // var sheets = ss.getSheets();
